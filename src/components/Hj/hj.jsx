@@ -1,6 +1,6 @@
 import React from 'react'
 
-const jei = () => {
+const hj = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const jei = () => {
   )
 }
 
-export default jei
+export default hj
